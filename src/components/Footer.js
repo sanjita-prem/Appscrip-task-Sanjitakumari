@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <footer className="footer">
       <div className="footer-container">
-        {/* Quick Links */}
+        {/* Quick Links access*/}
         <div className="footer-section">
           <h4>Quick Links</h4>
           <ul>

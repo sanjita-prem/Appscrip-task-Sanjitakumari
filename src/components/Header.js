@@ -14,11 +14,17 @@ const Header = () => {
         </div>
       </div>
       <nav className="nav-bar">
-        <a href="#">Shop</a>
-        <a href="#">Best Seller</a>
-        <a href="#">Today's Deal</a>
-        <a href="#">Fashion</a>
-        <a href="#">Customer Service</a>
+        <a href="https://www.amazon.in/">Shop</a>
+        <a href="https://www.amazon.in/gp/bestsellers/?ref_=nav_cs_bestsellers">
+          Best Seller
+        </a>
+        <a href="https://www.amazon.in/deals">Today's Deal</a>
+        <a href="https://www.amazon.in/gp/browse.html?node=6648217031&ref_=nav_cs_fashion">
+          Fashion
+        </a>
+        <a href="https://www.amazon.in/gp/help/customer/display.html?nodeId=200507590&ref_=nav_cs_help">
+          Customer Service
+        </a>
       </nav>
     </header>
   );
